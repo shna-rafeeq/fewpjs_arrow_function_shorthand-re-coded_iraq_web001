@@ -1,4 +1,4 @@
 let devide = (x,y)=>{
   return x/y;
 }
-devide();
+devide(2000,100);
