@@ -1,3 +1,3 @@
-let devide = ()=>{
+let devide = (x,y)=>{
   
 }
